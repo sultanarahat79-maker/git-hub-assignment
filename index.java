@@ -7,4 +7,3 @@ class Add {
         System.out.println("Sum = " + sum);
     }
 }
- 
